@@ -1,4 +1,4 @@
-> Workaround fork until https://github.com/facebook/idb/issues/646 is fixed
+> Workaround fork until https://github.com/facebook/idb/issues/646 and https://github.com/facebook/homebrew-fb/pull/47 are fixed
 
 ```
 brew tap sshquack/homebrew-fb
